@@ -1,0 +1,12 @@
+@media (max-width:1520px) {
+    .fixed-with{
+        width: 100%;
+        max-width: 100%;
+        margin: auto;
+    }
+}
+@media (max-width:992px) {
+    .clien-logo ul li {
+       margin: 0 10px;
+    }
+}
